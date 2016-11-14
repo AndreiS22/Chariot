@@ -13,7 +13,7 @@ void setup() {
    wait_for_start();
      digitalWrite(13,HIGH);
    changeThrottle(force);
-   delay(10000);
+   delay(5000);
   
 
 }
